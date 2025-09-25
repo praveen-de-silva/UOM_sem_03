@@ -7,7 +7,7 @@ public class JdbcExample {
         // Database connection details
         String url = "jdbc:mysql://localhost:3306/testdb";
         String user = "root";
-        String password = "pds2003@MS";
+        String password = "MySQL_password";
 
         try {
             // Load the JDBC driver (optional in newer Java versions)
